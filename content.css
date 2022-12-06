@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    background-color: aquamarine;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    border: 1px solid salmon;
+    width: 45opx;
+    display: flex;
+    flex-direction: column;
+}
+
+#title{
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}
